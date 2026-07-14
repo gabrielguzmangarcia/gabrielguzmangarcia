@@ -4,7 +4,7 @@
 
 ### Un ingeniero de software full-stack apasionado por crear aplicaciones web hermosas, funcionales y centradas en el usuario.
 - 🌱 Actualmente estoy aprendiendo **[ Diseño y arquitectura de sistemas ]( https://blog.bytebytego.com/p/free-system-design-pdf-158-pages )** 
-- 💬 Pregúntame sobre **PHP, Laravel...o cualquier cosa [ aquí ]( https://github.com/{USERNAME}/{USERNAME}/issues )**
+- 💬 Pregúntame sobre **PHP, Laravel...o cualquier cosa [ aquí ]( https://github.com/gabrielguzmangarcia/gabrielguzmangarcia/issues )**
 
  <br> 
 
