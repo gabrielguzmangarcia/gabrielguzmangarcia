@@ -25,8 +25,8 @@
  <br> 
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,vue,nextjs,mongodb,postgres,prisma" /> 
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" /> 
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,vue,nextjs,mongodb,postgresgithub,gitlab" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,git,postman,visualcode" /> 
 </p> 
 
 <hr>
