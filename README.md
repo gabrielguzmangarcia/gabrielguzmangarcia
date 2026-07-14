@@ -6,11 +6,11 @@ I'm a **Senior Full Stack Developer & Systems Engineering Analyst** based in Gua
 
 ### 🔧 What I Do
 
-*   **Enterprise Architecture & Backend:** Building robust corporate applications and software ecosystems primarily using **PHP** and **CodeIgniter**[cite: 1, 2], alongside clean design patterns[cite: 1, 2].
-*   **Web Services & Integrations:** Developing and consuming high-performance, secure **RESTful and SOAP APIs** for seamless data exchanges[cite: 1, 2].
-*   **Database Engineering:** Structuring and managing enterprise-level database objects (**PostgreSQL**, **MySQL**), optimizing complex queries, and configuring role-based security[cite: 1, 2].
-*   **Frontend Development:** Crafting responsive and interactive user interfaces using **JavaScript**, **jQuery**, and **Bootstrap**[cite: 1, 2].
-*   **Agile Coordination & Deployments:** Managing engineering workflows under the **Agile Scrum Framework**[cite: 1, 2] and ensuring software integrity through structured Git policies (Gitflow)[cite: 1, 2].
+*   **Enterprise Architecture & Backend:** Building robust corporate applications and software ecosystems primarily using **PHP** and **CodeIgniter**, alongside clean design patterns.
+*   **Web Services & Integrations:** Developing and consuming high-performance, secure **RESTful and SOAP APIs** for seamless data exchanges.
+*   **Database Engineering:** Structuring and managing enterprise-level database objects (**PostgreSQL**, **MySQL**), optimizing complex queries, and configuring role-based security.
+*   **Frontend Development:** Crafting responsive and interactive user interfaces using **JavaScript**, **jQuery**, and **Bootstrap**.
+*   **Agile Coordination & Deployments:** Managing engineering workflows under the **Agile Scrum Framework** and ensuring software integrity through structured Git policies (Gitflow).
 
 ---
 
@@ -27,20 +27,20 @@ I'm a **Senior Full Stack Developer & Systems Engineering Analyst** based in Gua
 
 ### 📈 My Experience & Approach
 
-*   **ARCSA (Agencia Nacional de Regulación, Control y Vigilancia Sanitaria):** Senior Developer & Analyst. Designed, built, and secured the core national application ecosystem to support critical nationwide public services[cite: 1, 2].
-*   **FUNIBER & De Prati:** Engineered core modules for international e-learning management platforms[cite: 1, 2] and optimized transacting modules for enterprise internal business systems[cite: 1, 2].
-*   **Quality Assurance:** Designing and executing comprehensive unit and integration testing workflows to maximize code coverage and system stability[cite: 1, 2].
-*   **Data Integrity:** Structuring secure enterprise schemas using optimal Data Definition (DDL) and Manipulation (DML) scripting[cite: 1, 2].
+*   **ARCSA (Agencia Nacional de Regulación, Control y Vigilancia Sanitaria):** Senior Developer & Analyst. Designed, built, and secured the core national application ecosystem to support critical nationwide public services.
+*   **FUNIBER & De Prati:** Engineered core modules for international e-learning management platforms and optimized transacting modules for enterprise internal business systems.
+*   **Quality Assurance:** Designing and executing comprehensive unit and integration testing workflows to maximize code coverage and system stability.
+*   **Data Integrity:** Structuring secure enterprise schemas using optimal Data Definition (DDL) and Manipulation (DML) scripting.
 
 ---
 
 ### 📫 Get in Touch
 
-*   💼 **LinkedIn:** [linkedin.com/in/gabriel-guzman-garcia/](https://www.linkedin.com/in/gabriel-guzman-garcia/)[cite: 1, 2]
-*   📧 **Email:** [gabriel.guzman.laboral@gmail.com](mailto:gabriel.guzman.laboral@gmail.com)[cite: 1, 2]
+*   💼 **LinkedIn:** [linkedin.com/in/gabriel-guzman-garcia/](https://www.linkedin.com/in/gabriel-guzman-garcia/)
+*   📧 **Email:** [gabriel.guzman.laboral@gmail.com](mailto:gabriel.guzman.laboral@gmail.com)
 
 ---
 
 ### 🌟 Let's Build Something Great
 
-I am driven by complex architectural challenges, code quality, and building software that directly impacts services on a large scale[cite: 1, 2]. Feel free to look around my repositories!
+I am driven by complex architectural challenges, code quality, and building software that directly impacts services on a large scale. Feel free to look around my repositories!
