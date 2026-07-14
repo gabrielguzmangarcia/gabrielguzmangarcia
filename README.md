@@ -25,7 +25,7 @@
  <br> 
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,vue,nextjs,mongodb,postgresgithub,gitlab" /> 
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,vue,nextjs,mongodb,postgres,github,gitlab" /> 
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,git,postman,visualcode" /> 
 </p> 
 
