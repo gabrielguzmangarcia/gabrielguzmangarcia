@@ -35,9 +35,6 @@
 
 <hr>
 
-## ⚡️ Estadísticas
-
- <br> 
 
 
 <!--
